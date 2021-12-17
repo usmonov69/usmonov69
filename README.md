@@ -4,5 +4,4 @@ I am 18 years old, i am a backend programmer, i am currently working on various 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmonov69)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Rakhmat's github stats](https://github-readme-stats.vercel.app/api?username=usmonov69&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
